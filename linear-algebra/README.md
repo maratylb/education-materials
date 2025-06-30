@@ -1,3 +1,3 @@
 # Linear Algebra Materials
 
-Van der Varden - Algebra textbook and related materials.
+Algebra textbooks and related materials.
